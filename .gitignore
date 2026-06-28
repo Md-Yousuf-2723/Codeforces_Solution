@@ -17,3 +17,7 @@ code
 
 # Ignore Drive download
 .tmp.drivedownload/
+
+# Ignore Agentic Skills
+.agents/
+skills-lock.json
