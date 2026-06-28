@@ -1,0 +1,19 @@
+# Ignore macOS system files
+.DS_Store
+**/.DS_Store
+
+# Ignore Obsidian vault folder
+.obsidian/
+
+# Ignore C++ scratchpad and its compiled binary
+code.cpp
+code
+
+# Ignore VS Code workspace settings
+.vscode/
+
+# Ignore Drive upload
+.tmp.driveupload/
+
+# Ignore Drive download
+.tmp.drivedownload/
